@@ -1,0 +1,13 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.nav {
+    background: #a9b8c6;
+    height: 80px;
+    display: flex;
+    align-items: center;
+    z-index: 999;
+}
